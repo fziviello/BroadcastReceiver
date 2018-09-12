@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/id_btn_hello"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CMD_HELLO" />
+
+        <Button
+            android:id="@+id/id_btn_ciao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CMD_CIAO" />
+
+    </LinearLayout>
+
+</RelativeLayout>
