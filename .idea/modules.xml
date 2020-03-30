@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver.iml" filepath="$PROJECT_DIR$/BroadcastReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/BroadcastReceiver-app.iml" filepath="$PROJECT_DIR$/app/BroadcastReceiver-app.iml" group="BroadcastReceiver/app" />
+      <module fileurl="file://$PROJECT_DIR$/GIT-BroadcastReceiver.iml" filepath="$PROJECT_DIR$/GIT-BroadcastReceiver.iml" group="BroadcastReceiver" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
